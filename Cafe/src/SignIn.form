@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="SignIn">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="27" width="2231" height="1090"/>
+    </constraints>
+    <properties>
+      <background color="-8644977"/>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="ff811" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="f6c2e" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="3c596" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="b67da" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Button"/>
+        </properties>
+      </component>
+      <component id="87fa2" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="3ac44" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <icon value="mellow-lane-thumb.jpg"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

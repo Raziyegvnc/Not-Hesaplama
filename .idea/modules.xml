@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buton/Buton.iml" filepath="$PROJECT_DIR$/Buton/Buton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ButonSeçYazdır/ButonSeçYazdır.iml" filepath="$PROJECT_DIR$/ButonSeçYazdır/ButonSeçYazdır.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cafe/Cafe.iml" filepath="$PROJECT_DIR$/Cafe/Cafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CafeManagment/CafeManagment.iml" filepath="$PROJECT_DIR$/CafeManagment/CafeManagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailParolaKontrol/EmailParolaKontrol.iml" filepath="$PROJECT_DIR$/EmailParolaKontrol/EmailParolaKontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game1/Game1.iml" filepath="$PROJECT_DIR$/Game1/Game1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" filepath="$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" />
+    </modules>
+  </component>
+</project>
